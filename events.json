@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T07:53:55.953Z",
+  "updatedAt": "2026-07-27T08:04:56.995Z",
   "events": [
     {
       "title": "Hannover für kluge Köpfe – Kinderführung",
@@ -12,6 +12,17 @@
       "sourceURL": "https://www.hannover-tourismus.de/veranstaltungen/",
       "description": "",
       "region": "hannover"
+    },
+    {
+      "title": "TESTTERMIN – Online-Aktualisierung",
+      "category": "ueberregional",
+      "start": "2026-07-28T16:00:00.000Z",
+      "location": "Rathaus Edemissen",
+      "distance": 0.5,
+      "source": "Terminfinder Test",
+      "sourceURL": "https://github.com/Tkrueg/Terminfinder-Daten",
+      "description": "Dieser Termin prüft ausschließlich die Online-Aktualisierung und wird nach dem Test wieder entfernt.",
+      "region": "edemissen"
     },
     {
       "title": "Wochenmarkt Peine",
