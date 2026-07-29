@@ -1,18 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T14:31:06.779Z",
+  "updatedAt": "2026-07-29T08:14:45.918Z",
   "events": [
-    {
-      "title": "NEU-Testtermin Terminfinder – zweiter Versuch",
-      "category": "familie",
-      "start": "2026-07-28T16:00:00.000Z",
-      "location": "Rathaus Edemissen, Oelheimer Weg 1, 31234 Edemissen",
-      "distance": 0.3,
-      "source": "Terminfinder-Test",
-      "sourceURL": "https://www.edemissen.de/portal/startseite.html",
-      "description": "Dieser Termin dient ausschließlich zum Test der NEU-Kennzeichnung und wird anschließend wieder gelöscht.",
-      "region": "edemissen"
-    },
     {
       "title": "Hannover für kluge Köpfe – Kinderführung",
       "category": "heimat",
@@ -80,6 +69,17 @@
       "region": "edemissen"
     },
     {
+      "title": "OpenStage Peine – Holzblume",
+      "category": "kultur_musik",
+      "start": "2026-08-01T10:30:00.000Z",
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/d1i-item-page/openstage-peine-holzblume-101253206/",
+      "description": "OpenStage-Auftritt der Band Holzblume auf dem Historischen Marktplatz.",
+      "region": "edemissen"
+    },
+    {
       "title": "Geführte Radtour durch das grüne Hannover",
       "category": "sport",
       "start": "2026-08-01T12:00:00.000Z",
@@ -89,6 +89,17 @@
       "sourceURL": "https://www.hannover-tourismus.de/veranstaltungen/",
       "description": "",
       "region": "hannover"
+    },
+    {
+      "title": "Offene Pforte Landkreis Peine",
+      "category": "familie",
+      "start": "2026-08-02T12:00:00.000Z",
+      "location": "Werner-Nordmeyer-Straße 19a, Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "Gartenbesichtigung im Rahmen der Offenen Pforte im Landkreis Peine.",
+      "region": "edemissen"
     },
     {
       "title": "Stadtspaziergang durch Peine",
@@ -113,17 +124,6 @@
       "region": "hannover"
     },
     {
-      "title": "Seniorentreff im Rathauskeller",
-      "category": "heimat",
-      "start": "2026-08-05T13:00:00.000Z",
-      "location": "Rathauskeller Edemissen",
-      "distance": 0.5,
-      "source": "Ortskalender",
-      "sourceURL": "https://www.ff-edemissen.de/downloads/edemissen-veranstaltungskalender-2026.pdf",
-      "description": "",
-      "region": "edemissen"
-    },
-    {
       "title": "Führung zur Historie der Ilseder Hütte",
       "category": "heimat",
       "start": "2026-08-05T13:00:00.000Z",
@@ -131,6 +131,17 @@
       "distance": 18,
       "source": "Peine Marketing",
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "",
+      "region": "edemissen"
+    },
+    {
+      "title": "Seniorentreff im Rathauskeller",
+      "category": "heimat",
+      "start": "2026-08-05T13:00:00.000Z",
+      "location": "Rathauskeller Edemissen",
+      "distance": 0.5,
+      "source": "Ortskalender",
+      "sourceURL": "https://www.ff-edemissen.de/downloads/edemissen-veranstaltungskalender-2026.pdf",
       "description": "",
       "region": "edemissen"
     },
@@ -190,6 +201,39 @@
       "region": "edemissen"
     },
     {
+      "title": "Peiner Weinfest – Samstag",
+      "category": "feste_maerkte",
+      "start": "2026-08-08T13:00:00.000Z",
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "Zweiter Veranstaltungstag des Peiner Weinfests.",
+      "region": "edemissen"
+    },
+    {
+      "title": "Tretbootrennen der Biker-Szene",
+      "category": "sport",
+      "start": "2026-08-08T15:00:00.000Z",
+      "location": "Sundernweg 41, Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/d1i-item-page/tretbootrennen-der-biker-szene-101322895/",
+      "description": "Tretbootrennen und Open-Air-Veranstaltung in Peine.",
+      "region": "edemissen"
+    },
+    {
+      "title": "Peiner Weinfest – Sonntag",
+      "category": "feste_maerkte",
+      "start": "2026-08-09T10:00:00.000Z",
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "Dritter Veranstaltungstag des Peiner Weinfests.",
+      "region": "edemissen"
+    },
+    {
       "title": "Krimi-Tour per Fahrrad",
       "category": "sport",
       "start": "2026-08-09T12:00:00.000Z",
@@ -223,6 +267,17 @@
       "region": "edemissen"
     },
     {
+      "title": "Offene Pforte – Garten Ebers / Schneider",
+      "category": "familie",
+      "start": "2026-08-15T10:00:00.000Z",
+      "location": "Weimarer Straße 12, Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "Gartenbesichtigung im Rahmen der Offenen Pforte.",
+      "region": "edemissen"
+    },
+    {
       "title": "Internationaler Feuerwerkswettbewerb – Finnland",
       "category": "ueberregional",
       "start": "2026-08-15T16:00:00.000Z",
@@ -253,6 +308,28 @@
       "source": "Heimatverein",
       "sourceURL": "https://www.heimatgeschichte-edemissen.de/",
       "description": "",
+      "region": "edemissen"
+    },
+    {
+      "title": "Offene Pforte – Garten Heineke",
+      "category": "familie",
+      "start": "2026-08-16T09:00:00.000Z",
+      "location": "Herderstraße 17, Ilsede",
+      "distance": 18,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "Gartenbesichtigung im Rahmen der Offenen Pforte.",
+      "region": "edemissen"
+    },
+    {
+      "title": "Offene Pforte – Weidenkirche Wendeburg",
+      "category": "familie",
+      "start": "2026-08-16T10:00:00.000Z",
+      "location": "Schulstraße 9, Wendeburg",
+      "distance": 18,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
+      "description": "Tag der offenen Tür an der Weidenkirche Wendeburg.",
       "region": "edemissen"
     },
     {
@@ -322,6 +399,17 @@
       "region": "edemissen"
     },
     {
+      "title": "Stadtführung „Bierkultur in Peine“",
+      "category": "kultur_musik",
+      "start": "2026-08-22T14:30:00.000Z",
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/d1i-item-page/stadtfuehrung-bierkultur-in-peine-ein-schluck-geschichte-in-jedem-glas-101255588/",
+      "description": "Thematische Stadtführung zur Bierkultur in Peine.",
+      "region": "edemissen"
+    },
+    {
       "title": "Burgplatz Open Air – Der Freischütz",
       "category": "ueberregional",
       "start": "2026-08-22T17:30:00.000Z",
@@ -344,6 +432,17 @@
       "region": "edemissen"
     },
     {
+      "title": "ABI Zukunft Hannover 2026",
+      "category": "ueberregional",
+      "start": "2026-08-29T08:00:00.000Z",
+      "location": "Hannover Congress Centrum",
+      "distance": 2.3,
+      "source": "Hannover.de",
+      "sourceURL": "https://www.hannover.de/Tourismus/Top-Events-und-Veranstaltungen/Veranstaltungskalender",
+      "description": "",
+      "region": "hannover"
+    },
+    {
       "title": "Kinderbibelwochenende",
       "category": "heimat",
       "start": "2026-08-29T08:00:00.000Z",
@@ -355,15 +454,15 @@
       "region": "edemissen"
     },
     {
-      "title": "ABI Zukunft Hannover 2026",
-      "category": "ueberregional",
+      "title": "Selbsthilfetag Peine 2026",
+      "category": "vereine",
       "start": "2026-08-29T08:00:00.000Z",
-      "location": "Hannover Congress Centrum",
-      "distance": 2.3,
-      "source": "Hannover.de",
-      "sourceURL": "https://www.hannover.de/Tourismus/Top-Events-und-Veranstaltungen/Veranstaltungskalender",
-      "description": "",
-      "region": "hannover"
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/d1i-item-page/selbsthilfetag-peine-2026-101299757/",
+      "description": "Informations- und Begegnungsveranstaltung der Peiner Selbsthilfegruppen.",
+      "region": "edemissen"
     },
     {
       "title": "Dorfflohmarkt Wipshausen",
@@ -418,6 +517,28 @@
       "source": "Stadthalle Gifhorn",
       "sourceURL": "https://www.stadthalle-gifhorn.de/programm",
       "description": "",
+      "region": "edemissen"
+    },
+    {
+      "title": "OpenStage Peine – Kreischsägen 2.0",
+      "category": "kultur_musik",
+      "start": "2026-09-12T08:30:00.000Z",
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/events/open-stage/",
+      "description": "OpenStage-Auftritt der Kreischsägen 2.0 auf dem Historischen Marktplatz.",
+      "region": "edemissen"
+    },
+    {
+      "title": "OpenStage Peine – Open Heaven",
+      "category": "kultur_musik",
+      "start": "2026-09-12T10:30:00.000Z",
+      "location": "Am Markt, 31224 Peine",
+      "distance": 13,
+      "source": "Peine Marketing",
+      "sourceURL": "https://www.peine-erleben.de/erleben/events/open-stage/",
+      "description": "Entspannte Piano- und Trompetenmusik beim OpenStage-Programm.",
       "region": "edemissen"
     },
     {
