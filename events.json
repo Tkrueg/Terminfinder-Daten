@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T07:58:02.279Z",
+  "updatedAt": "2026-08-03T08:37:47.291Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -14,6 +14,30 @@
       "description": "Deutschlands größtes Seefest mit mehr als 200 Acts, internationaler Gastronomie und Angeboten für die ganze Familie rund um den Maschsee.",
       "frequency": "special",
       "region": "hannover"
+    },
+    {
+      "title": "Rathausausstellung – Farben in Schichten",
+      "category": "kultur_musik",
+      "start": "2026-07-28T06:00:00.000Z",
+      "location": "Rathaus Hildesheim, Markt 1",
+      "distance": 0.4,
+      "source": "Hildesheim Tourismus",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "hildesheim"
+    },
+    {
+      "title": "Archivsequenzen – Historisches Fotoarchiv",
+      "category": "kultur_musik",
+      "start": "2026-07-28T09:00:00.000Z",
+      "location": "Dommuseum, Domhof 3, Hildesheim",
+      "distance": 0.8,
+      "source": "Hildesheim Tourismus",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "hildesheim"
     },
     {
       "title": "Hannover für kluge Köpfe – Kinderführung",
@@ -38,6 +62,18 @@
       "description": "Regelmäßiger Wochenmarkt am Mittwoch und Samstag.",
       "frequency": "regular",
       "region": "edemissen"
+    },
+    {
+      "title": "Citybeach 2026",
+      "category": "sport",
+      "start": "2026-07-29T09:00:00.000Z",
+      "location": "Platz An der Lilie, Hildesheim",
+      "distance": 0.5,
+      "source": "Hildesheim Tourismus",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "hildesheim"
     },
     {
       "title": "Celler Weinmarkt",
@@ -341,6 +377,30 @@
       "region": "hannover"
     },
     {
+      "title": "Sprechstunde mit dem Ortsbürgermeister",
+      "category": "vereine",
+      "start": "2026-08-11T15:00:00.000Z",
+      "location": "Verwaltungsstelle Fallersleben, Hofekamp 10, Wolfsburg",
+      "distance": 5.5,
+      "source": "Mein Wolfsburg",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Kinonachmittag – Die progressiven Nostalgiker",
+      "category": "kultur_musik",
+      "start": "2026-08-13T12:30:00.000Z",
+      "location": "Porschestraße 39, Wolfsburg",
+      "distance": 0.8,
+      "source": "Mein Wolfsburg",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
       "title": "Tempelritter am Bohlweg? – Vortrag",
       "category": "kultur_musik",
       "start": "2026-08-13T13:00:00.000Z",
@@ -351,6 +411,18 @@
       "description": "",
       "frequency": "special",
       "region": "edemissen"
+    },
+    {
+      "title": "Führung: KZ-Häftlinge in der Rüstungsproduktion",
+      "category": "kultur_musik",
+      "start": "2026-08-14T13:00:00.000Z",
+      "location": "Gedenkstätte KZ Drütte, Salzgitter",
+      "distance": 7,
+      "source": "Stadt Salzgitter",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "salzgitter"
     },
     {
       "title": "Schnupperwochenende beim Uhlenflug",
@@ -437,6 +509,18 @@
       "region": "edemissen"
     },
     {
+      "title": "Fit mit dem E-Bike – Sicherheitstraining",
+      "category": "sport",
+      "start": "2026-08-17T07:00:00.000Z",
+      "location": "Salzgitter",
+      "distance": 3,
+      "source": "Stadt Salzgitter",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "salzgitter"
+    },
+    {
       "title": "Sommer Open Air im Kulturpunkt West",
       "category": "kultur_musik",
       "start": "2026-08-19T12:30:00.000Z",
@@ -459,6 +543,18 @@
       "description": "",
       "frequency": "special",
       "region": "edemissen"
+    },
+    {
+      "title": "NABU – Naturkundlicher Abendspaziergang",
+      "category": "vereine",
+      "start": "2026-08-20T16:00:00.000Z",
+      "location": "Salzgitter",
+      "distance": 4,
+      "source": "Stadt Salzgitter",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "salzgitter"
     },
     {
       "title": "Gifhorner Altstadtfest",
@@ -521,6 +617,30 @@
       "region": "goslar"
     },
     {
+      "title": "75 Jahre TSV Salzgitter",
+      "category": "sport",
+      "start": "2026-08-22T08:00:00.000Z",
+      "location": "Salzgitter",
+      "distance": 3,
+      "source": "Stadt Salzgitter",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "salzgitter"
+    },
+    {
+      "title": "Offenes Hobby-Beachvolleyball-Turnier",
+      "category": "sport",
+      "start": "2026-08-22T08:00:00.000Z",
+      "location": "Ringelheim, Salzgitter",
+      "distance": 12,
+      "source": "Stadt Salzgitter",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "salzgitter"
+    },
+    {
       "title": "2. Peiner Blaulichtmeile",
       "category": "familie",
       "start": "2026-08-22T08:00:00.000Z",
@@ -531,6 +651,18 @@
       "description": "",
       "frequency": "special",
       "region": "edemissen"
+    },
+    {
+      "title": "Bürgersingen im Rosengarten",
+      "category": "kultur_musik",
+      "start": "2026-08-22T09:00:00.000Z",
+      "location": "Rosengarten Salzgitter-Bad",
+      "distance": 10,
+      "source": "Stadt Salzgitter",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "salzgitter"
     },
     {
       "title": "Braunschweig International",
@@ -615,6 +747,18 @@
       "description": "Jazzkonzert und Finale des Internationalen Musikfests Goslar.",
       "frequency": "special",
       "region": "goslar"
+    },
+    {
+      "title": "Food & Wine Days 2026",
+      "category": "feste_maerkte",
+      "start": "2026-08-27T14:00:00.000Z",
+      "location": "Platz An der Lilie, Hildesheim",
+      "distance": 0.5,
+      "source": "Hildesheim Tourismus",
+      "sourceURL": "https://www.hildesheim-tourismus.de/veranstaltungskalender/All",
+      "description": "",
+      "frequency": "special",
+      "region": "hildesheim"
     },
     {
       "title": "Open Stage Goslar",
