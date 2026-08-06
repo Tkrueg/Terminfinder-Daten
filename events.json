@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T08:37:47.291Z",
+  "updatedAt": "2026-08-06T12:00:00.000Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -303,6 +303,128 @@
       "description": "Flohmarkt von 10 bis 14 Uhr.",
       "frequency": "special",
       "region": "goslar"
+    },
+    {
+      "title": "HIT-STER Live",
+      "category": "kultur_musik",
+      "start": "2026-08-07T13:00:00.000Z",
+      "end": "2026-08-07T14:30:00.000Z",
+      "location": "Porsche Bühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Live-Musik-Ausgabe des Musikspiels HIT-STER auf der Porsche Bühne.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Robin Schulz – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-07T18:00:00.000Z",
+      "location": "Lagunenbühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Ticket-Konzert beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "HIT-STER Live",
+      "category": "kultur_musik",
+      "start": "2026-08-08T13:00:00.000Z",
+      "end": "2026-08-08T14:30:00.000Z",
+      "location": "Porsche Bühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Live-Musik-Ausgabe des Musikspiels HIT-STER auf der Porsche Bühne.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "ClockClock – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-08T18:00:00.000Z",
+      "location": "Lagunenbühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Ticket-Konzert beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Paula Carolina – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-09T16:00:00.000Z",
+      "location": "Porsche Bühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Ticket-Konzert beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Till Seifert – Sundown Session",
+      "category": "kultur_musik",
+      "start": "2026-08-11T16:00:00.000Z",
+      "location": "Porsche Bühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Sundown Session beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Leony feat. Marc Atlas – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-13T18:00:00.000Z",
+      "location": "Lagunenbühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Ticket-Konzert beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Natasha Bedingfield – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-14T18:00:00.000Z",
+      "location": "Lagunenbühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Ticket-Konzert beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Amy Macdonald – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-15T18:00:00.000Z",
+      "location": "Lagunenbühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Ticket-Konzert beim Autostadt Sommerfestival 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
+    },
+    {
+      "title": "Calum Scott & Sound-Challenge-Gewinner – Sommerfestival",
+      "category": "kultur_musik",
+      "start": "2026-08-16T18:00:00.000Z",
+      "location": "Lagunenbühne, Autostadt, Stadtbrücke, Wolfsburg",
+      "distance": 1.5,
+      "source": "Autostadt Sommerfestival",
+      "sourceURL": "https://www.autostadt.de/sommerplan",
+      "description": "Abschlusskonzert des Autostadt Sommerfestivals 2026.",
+      "frequency": "special",
+      "region": "wolfsburg"
     },
     {
       "title": "Sommerfest im Misburger Bad",
