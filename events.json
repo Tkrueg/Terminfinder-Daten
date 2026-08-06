@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T12:00:00.000Z",
+  "updatedAt": "2026-08-06T13:00:00.000Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -1325,6 +1325,18 @@
       "description": "",
       "frequency": "special",
       "region": "edemissen"
+    },
+    {
+      "title": "Quatsch Comedy Club – KulturImZelt",
+      "category": "kultur_musik",
+      "start": "2026-09-16T18:00:00.000Z",
+      "location": "KulturImZelt, Bürgerpark, Braunschweig",
+      "distance": 1.5,
+      "source": "KulturImZelt",
+      "sourceURL": "https://www.kulturimzelt-shop.de/produkte/94336-tickets-quatsch-comedy-club-festival-kulturimzelt-grosses-zelt-braunschweig-am-16-09-2026",
+      "description": "Live-Show des Quatsch Comedy Clubs mit Moderation und vier Comedians im großen Zelt.",
+      "frequency": "special",
+      "region": "braunschweig"
     },
     {
       "title": "Adventskonzert des Musikzuges",
