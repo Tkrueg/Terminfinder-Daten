@@ -1352,6 +1352,19 @@
       "region": "edemissen"
     },
     {
+      "title": "Lesewanderung zum Elemente Thema Feuer",
+      "category": "kultur_musik",
+      "start": "2026-08-21T15:30:00.000Z",
+      "end": "2026-08-21T17:30:00.000Z",
+      "location": "Kreisbücherei Edemissen, Edemissen",
+      "distance": 0.8,
+      "source": "Veranstalter-Flyer LeseLust e. V.",
+      "sourceURL": "https://www.kb-lkpeine.de/Standorte/Edemissen/",
+      "description": "Literarische Wanderung mit heißen Lesestationen zum Thema Feuer. Kostenlos; Anmeldung beim Veranstalter erforderlich. Bitte Outdoorsitzkissen und wetterangepasste Kleidung mitbringen.",
+      "frequency": "special",
+      "region": "currentLocation"
+    },
+    {
       "title": "Adventskonzert des Musikzuges",
       "category": "kultur_musik",
       "start": "2026-12-05T16:00:00.000Z",
