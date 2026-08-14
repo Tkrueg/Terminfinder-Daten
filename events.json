@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T07:01:34.349Z",
+  "updatedAt": "2026-08-14T07:48:00.949Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -1483,6 +1483,123 @@
       "description": "Zweiter Tag des traditionellen Zwiebelfests mit Livemusik und Unterhaltung.",
       "frequency": "special",
       "region": "hannover"
+    },
+    {
+      "title": "Posaunenchor Middels – Stadtfest Aurich",
+      "category": "kultur_musik",
+      "start": "2026-08-15T09:30:00.000Z",
+      "end": "2026-08-15T10:30:00.000Z",
+      "location": "ON-Bühne Marktplatz, Aurich",
+      "distance": 0.2,
+      "source": "Stadt Aurich",
+      "sourceURL": "https://stadtfest.aurich.de/tagesprogramm.html",
+      "description": "Blasmusik im Tagesprogramm des Stadtfests Aurich.",
+      "frequency": "special",
+      "region": "aurich"
+    },
+    {
+      "title": "Blumenhofmusikanten Middels – Stadtfest Aurich",
+      "category": "kultur_musik",
+      "start": "2026-08-15T10:30:00.000Z",
+      "end": "2026-08-15T12:00:00.000Z",
+      "location": "ON-Bühne Marktplatz, Aurich",
+      "distance": 0.2,
+      "source": "Stadt Aurich",
+      "sourceURL": "https://stadtfest.aurich.de/tagesprogramm.html",
+      "description": "Musikauftritt im Tagesprogramm des Stadtfests Aurich.",
+      "frequency": "special",
+      "region": "aurich"
+    },
+    {
+      "title": "Spekendorfer Jungs – Stadtfest Aurich",
+      "category": "kultur_musik",
+      "start": "2026-08-15T12:00:00.000Z",
+      "end": "2026-08-15T12:30:00.000Z",
+      "location": "ON-Bühne Marktplatz, Aurich",
+      "distance": 0.2,
+      "source": "Stadt Aurich",
+      "sourceURL": "https://stadtfest.aurich.de/tagesprogramm.html",
+      "description": "Musikauftritt im Tagesprogramm des Stadtfests Aurich.",
+      "frequency": "special",
+      "region": "aurich"
+    },
+    {
+      "title": "Sprechstunde des Seniorenbeirates",
+      "category": "vereine",
+      "start": "2026-08-19T08:00:00.000Z",
+      "end": "2026-08-19T10:00:00.000Z",
+      "location": "Altes Rathaus, Markt 14–16, Celle",
+      "distance": 0.2,
+      "source": "Stadt Celle",
+      "sourceURL": "https://www.celle.de/index.php?FID=3747.1312.1&ModID=7&object=tx%7C3747.1312.1",
+      "description": "Wöchentliche Beratung zu altersrelevanten Fragen im Alten Rathaus.",
+      "frequency": "regular",
+      "region": "celle"
+    },
+    {
+      "title": "Stadtführung – öffentliche Stadtführung",
+      "category": "kultur_musik",
+      "start": "2026-08-19T09:00:00.000Z",
+      "end": "2026-08-19T10:30:00.000Z",
+      "location": "Brücke vor dem Schloss, Schlossplatz, Celle",
+      "distance": 0.5,
+      "source": "Stadt Celle",
+      "sourceURL": "https://www.celle.de/Veranstaltungen/Veranstaltungskalender/index.php?La=1&ModID=11&NavID=3747.43&object=tx%7C3747.159.1&ofs_1=968",
+      "description": "Geführter Rundgang durch die historische Celler Altstadt.",
+      "frequency": "regular",
+      "region": "celle"
+    },
+    {
+      "title": "Rosenwassercreme selbst herstellen",
+      "category": "kultur_musik",
+      "start": "2026-08-19T15:00:00.000Z",
+      "end": "2026-08-19T16:30:00.000Z",
+      "location": "Heilpflanzengarten, Wittinger Straße 76, Celle",
+      "distance": 1.5,
+      "source": "Stadt Celle",
+      "sourceURL": "https://www.celle.de/Veranstaltungen/Veranstaltungskalender/Rosenwassercreme-selbst-herstellen.php?FID=3747.7392676.1&ModID=11",
+      "description": "Workshop zur Herstellung einer Handcreme; Anmeldung erforderlich.",
+      "frequency": "special",
+      "region": "celle"
+    },
+    {
+      "title": "Mariä-Geburtsmarkt Cloppenburg – Freitag",
+      "category": "feste_maerkte",
+      "start": "2026-09-11T13:00:00.000Z",
+      "end": "2026-09-11T21:00:00.000Z",
+      "location": "Marktplatz an der Eschstraße, Cloppenburg",
+      "distance": 0.5,
+      "source": "Stadt Cloppenburg",
+      "sourceURL": "https://www.cloppenburg.de/portal/seiten/mariae-geburtsmarkt-900000293-31040.html",
+      "description": "Erster Tag des viertägigen Jahrmarkts mit Fahrgeschäften, Spielbuden und Gastronomie.",
+      "frequency": "special",
+      "region": "cloppenburg"
+    },
+    {
+      "title": "Mariä-Geburtsmarkt Cloppenburg – Samstag",
+      "category": "feste_maerkte",
+      "start": "2026-09-12T11:00:00.000Z",
+      "end": "2026-09-12T22:00:00.000Z",
+      "location": "Marktplatz an der Eschstraße, Cloppenburg",
+      "distance": 0.5,
+      "source": "Stadt Cloppenburg",
+      "sourceURL": "https://www.cloppenburg.de/portal/seiten/mariae-geburtsmarkt-900000293-31040.html",
+      "description": "Zweiter Tag des viertägigen Jahrmarkts mit Fahrgeschäften, Spielbuden und Gastronomie.",
+      "frequency": "special",
+      "region": "cloppenburg"
+    },
+    {
+      "title": "Mariä-Geburtsmarkt Cloppenburg – Sonntag",
+      "category": "feste_maerkte",
+      "start": "2026-09-13T11:00:00.000Z",
+      "end": "2026-09-13T20:00:00.000Z",
+      "location": "Marktplatz an der Eschstraße, Cloppenburg",
+      "distance": 0.5,
+      "source": "Stadt Cloppenburg",
+      "sourceURL": "https://www.cloppenburg.de/portal/seiten/mariae-geburtsmarkt-900000293-31040.html",
+      "description": "Dritter Tag des viertägigen Jahrmarkts mit Fahrgeschäften, Spielbuden und Gastronomie.",
+      "frequency": "special",
+      "region": "cloppenburg"
     }
   ]
 }
