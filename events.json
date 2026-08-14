@@ -1,7 +1,46 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T10:46:00.000Z",
+  "updatedAt": "2026-08-14T11:10:00.000Z",
   "events": [
+    {
+      "title": "Matinée im Park – Good News Hermannsburg",
+      "category": "kultur_musik",
+      "start": "2026-08-16T09:00:00.000Z",
+      "end": "2026-08-16T10:00:00.000Z",
+      "location": "Sebastian-Kneipp-Park, Bad Fallingbostel",
+      "distance": 0.8,
+      "source": "Stadt Bad Fallingbostel",
+      "sourceURL": "https://www.badfallingbostel.de/Leben-Wohnen/Leben-Wohnen-Gesundheit/Veranstaltungen/",
+      "description": "Offizielles Sonntagskonzert der städtischen Reihe Matinée im Park von 11 bis 12 Uhr.",
+      "frequency": "special",
+      "region": "heidekreis"
+    },
+    {
+      "title": "Matinée im Park – AlgoRhythm Bigband",
+      "category": "kultur_musik",
+      "start": "2026-08-23T09:00:00.000Z",
+      "end": "2026-08-23T10:00:00.000Z",
+      "location": "Sebastian-Kneipp-Park, Bad Fallingbostel",
+      "distance": 0.8,
+      "source": "Stadt Bad Fallingbostel",
+      "sourceURL": "https://www.badfallingbostel.de/Leben-Wohnen/Leben-Wohnen-Gesundheit/Veranstaltungen/",
+      "description": "Offizielles Sonntagskonzert der städtischen Reihe Matinée im Park von 11 bis 12 Uhr.",
+      "frequency": "special",
+      "region": "heidekreis"
+    },
+    {
+      "title": "Matinée im Park – Ol' Potatoes",
+      "category": "kultur_musik",
+      "start": "2026-08-30T09:00:00.000Z",
+      "end": "2026-08-30T10:00:00.000Z",
+      "location": "Sebastian-Kneipp-Park, Bad Fallingbostel",
+      "distance": 0.8,
+      "source": "Stadt Bad Fallingbostel",
+      "sourceURL": "https://www.badfallingbostel.de/Leben-Wohnen/Leben-Wohnen-Gesundheit/Veranstaltungen/",
+      "description": "Offizielles Sonntagskonzert der städtischen Reihe Matinée im Park von 11 bis 12 Uhr.",
+      "frequency": "special",
+      "region": "heidekreis"
+    },
     {
       "title": "Maschseefest Hannover 2026",
       "category": "feste_maerkte",
