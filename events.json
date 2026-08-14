@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T07:55:28.000Z",
+  "updatedAt": "2026-08-14T10:00:00.000Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -1711,6 +1711,120 @@
       "description": "Regelmäßiger Wochenmarkt in der historischen Innenstadt.",
       "frequency": "regular",
       "region": "emsland"
+    },
+    {
+      "title": "LOK Garten mit Not A Whale",
+      "category": "kultur_musik",
+      "start": "2026-08-14T17:00:00.000Z",
+      "end": "2026-08-14T19:00:00.000Z",
+      "location": "LOK Kulturzentrum Jever, Moorweg 2, 26441 Jever",
+      "distance": 1.0,
+      "source": "Landkreis Friesland",
+      "sourceURL": "https://www.friesland.de/regional/veranstaltungen/lok-garten-mit-false-lefty-903024409-20820.html",
+      "description": "Indie-Rock im Garten des LOK Kulturzentrums; Einlass ab 18 Uhr, Konzertbeginn um 19 Uhr.",
+      "frequency": "special",
+      "region": "friesland"
+    },
+    {
+      "title": "LOK Garten mit Pollyana/Oaio",
+      "category": "kultur_musik",
+      "start": "2026-08-22T17:00:00.000Z",
+      "end": "2026-08-22T19:00:00.000Z",
+      "location": "LOK Kulturzentrum Jever, Moorweg 2, 26441 Jever",
+      "distance": 1.0,
+      "source": "Landkreis Friesland",
+      "sourceURL": "https://www.friesland.de/regional/veranstaltungen/lok-garten-mit-false-lefty-903024409-20820.html",
+      "description": "Singer-Songwriter-Abend im Garten des LOK Kulturzentrums; Einlass ab 18 Uhr, Konzertbeginn um 19 Uhr.",
+      "frequency": "special",
+      "region": "friesland"
+    },
+    {
+      "title": "LOK Garten mit Silkroad Special",
+      "category": "kultur_musik",
+      "start": "2026-08-29T17:00:00.000Z",
+      "end": "2026-08-29T19:00:00.000Z",
+      "location": "LOK Kulturzentrum Jever, Moorweg 2, 26441 Jever",
+      "distance": 1.0,
+      "source": "Landkreis Friesland",
+      "sourceURL": "https://www.friesland.de/regional/veranstaltungen/lok-garten-mit-false-lefty-903024409-20820.html",
+      "description": "Ska, Klezmer und Polka im Garten des LOK Kulturzentrums; Einlass ab 18 Uhr, Konzertbeginn um 19 Uhr.",
+      "frequency": "special",
+      "region": "friesland"
+    },
+    {
+      "title": "Altstadtfest Gifhorn: N’Stylz",
+      "category": "kultur_musik",
+      "start": "2026-08-21T15:00:00.000Z",
+      "end": "2026-08-21T15:15:00.000Z",
+      "location": "Stadtwerke-Bühne am Rathaus, Marktplatz, Gifhorn",
+      "distance": 0.2,
+      "source": "Stadt Gifhorn",
+      "sourceURL": "https://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen/gifhorner-altstadtfest",
+      "description": "Musikauftritt der Gifhorner Formation N’Stylz beim Altstadtfest.",
+      "frequency": "special",
+      "region": "gifhorn"
+    },
+    {
+      "title": "Altstadtfest Gifhorn: Songs für Gifhorn",
+      "category": "kultur_musik",
+      "start": "2026-08-21T15:30:00.000Z",
+      "end": "2026-08-21T16:00:00.000Z",
+      "location": "Stadtwerke-Bühne am Rathaus, Marktplatz, Gifhorn",
+      "distance": 0.2,
+      "source": "Stadt Gifhorn",
+      "sourceURL": "https://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen/gifhorner-altstadtfest",
+      "description": "Eine Stadt, viele Stimmen und ein gemeinsamer Song zum 830-jährigen Stadtjubiläum.",
+      "frequency": "special",
+      "region": "gifhorn"
+    },
+    {
+      "title": "Altstadtfest Gifhorn: Volker Schlag und Kinderchor",
+      "category": "kultur_musik",
+      "start": "2026-08-21T16:45:00.000Z",
+      "end": "2026-08-21T17:30:00.000Z",
+      "location": "Stadtwerke-Bühne am Rathaus, Marktplatz, Gifhorn",
+      "distance": 0.2,
+      "source": "Stadt Gifhorn",
+      "sourceURL": "https://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen/gifhorner-altstadtfest",
+      "description": "Volker Schlag präsentiert „Lass uns Fliegen“ mit dem Kinderchor des Projekts Leuchtturmmusik.",
+      "frequency": "special",
+      "region": "gifhorn"
+    },
+    {
+      "title": "KWP-Festival 2026",
+      "category": "kultur_musik",
+      "start": "2026-08-15T17:00:00.000Z",
+      "location": "Kaiser-Wilhelm-Park, Bismarckstraße, 37085 Göttingen",
+      "distance": 2.5,
+      "source": "Stadt Göttingen – Kultursommer",
+      "sourceURL": "https://kultursommer.goettingen.de/portal/seiten/kwp-festival-900001196-25480.html",
+      "description": "Musikfestival im Kaiser-Wilhelm-Park im Rahmen des Göttinger Kultursommers.",
+      "frequency": "special",
+      "region": "goettingen"
+    },
+    {
+      "title": "Sonntagsführung: Alle lieben Liesel?!",
+      "category": "kultur_musik",
+      "start": "2026-08-16T09:00:00.000Z",
+      "location": "Städtisches Museum Göttingen, Ritterplan 7/8, 37073 Göttingen",
+      "distance": 0.5,
+      "source": "Städtisches Museum Göttingen",
+      "sourceURL": "https://museum.goettingen.de/ausstellungen/sonderausstellungen/alle-lieben-liesel-125-jahre-goettinger-gaenseliesel/rahmenprogramm-alle-lieben-liesel-/",
+      "description": "Öffentliche Führung durch die Sonderausstellung zum 125-jährigen Jubiläum des Göttinger Gänseliesels.",
+      "frequency": "special",
+      "region": "goettingen"
+    },
+    {
+      "title": "Kuratorenführung: Alle lieben Liesel?!",
+      "category": "kultur_musik",
+      "start": "2026-09-03T15:00:00.000Z",
+      "location": "Städtisches Museum Göttingen, Ritterplan 7/8, 37073 Göttingen",
+      "distance": 0.5,
+      "source": "Städtisches Museum Göttingen",
+      "sourceURL": "https://museum.goettingen.de/ausstellungen/sonderausstellungen/alle-lieben-liesel-125-jahre-goettinger-gaenseliesel/rahmenprogramm-alle-lieben-liesel-/",
+      "description": "Kuratorenführung mit besonderen Einblicken in die Sonderausstellung zum Göttinger Gänseliesel.",
+      "frequency": "special",
+      "region": "goettingen"
     }
   ]
 }
