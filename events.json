@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T07:48:00.949Z",
+  "updatedAt": "2026-08-14T07:55:28.000Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -1600,6 +1600,117 @@
       "description": "Dritter Tag des viertägigen Jahrmarkts mit Fahrgeschäften, Spielbuden und Gastronomie.",
       "frequency": "special",
       "region": "cloppenburg"
+    },
+    {
+      "title": "Gesichter zeichnen",
+      "category": "kultur_musik",
+      "start": "2026-08-15T08:00:00.000Z",
+      "location": "VHS, Werkraum I, Cuxhaven",
+      "distance": 0.8,
+      "source": "VHS der Stadt Cuxhaven",
+      "sourceURL": "https://vhsseminare.cuxhaven.de/webbasys/index.php?kathaupt=27&orderby=ort&orderbyasc=0",
+      "description": "Zeichenkurs der städtischen Volkshochschule; Anmeldung erforderlich.",
+      "frequency": "special",
+      "region": "cuxhaven"
+    },
+    {
+      "title": "Aquarellmalerei – Naturstudien",
+      "category": "kultur_musik",
+      "start": "2026-09-09T14:00:00.000Z",
+      "location": "VHS, Werkraum I, Cuxhaven",
+      "distance": 0.8,
+      "source": "VHS der Stadt Cuxhaven",
+      "sourceURL": "https://vhsseminare.cuxhaven.de/webbasys/index.php?kathaupt=27&orderby=ort&orderbyasc=0",
+      "description": "Aquarellkurs der städtischen Volkshochschule; Anmeldung erforderlich.",
+      "frequency": "special",
+      "region": "cuxhaven"
+    },
+    {
+      "title": "Figürlich zeichnen",
+      "category": "kultur_musik",
+      "start": "2026-09-12T08:00:00.000Z",
+      "location": "VHS, Werkraum I, Cuxhaven",
+      "distance": 0.8,
+      "source": "VHS der Stadt Cuxhaven",
+      "sourceURL": "https://vhsseminare.cuxhaven.de/webbasys/index.php?kathaupt=27&orderby=ort&orderbyasc=0",
+      "description": "Zeichenkurs der städtischen Volkshochschule; Anmeldung erforderlich.",
+      "frequency": "special",
+      "region": "cuxhaven"
+    },
+    {
+      "title": "Ausschuss für Ordnung, Markt, Soziales, Sport und Kultur",
+      "category": "vereine",
+      "start": "2026-08-19T14:00:00.000Z",
+      "location": "Rathaus, Rathausmarkt 1, Ratssaal, Diepholz",
+      "distance": 0.2,
+      "source": "Stadt Diepholz – Bürgerinfoportal",
+      "sourceURL": "https://sitzungsdienst.stadt-diepholz.de/bi/info.asp",
+      "description": "Termin des städtischen Ausschusses im Ratssaal.",
+      "frequency": "special",
+      "region": "diepholz"
+    },
+    {
+      "title": "Senioren- und Behindertenbeirat Diepholz",
+      "category": "vereine",
+      "start": "2026-08-20T14:30:00.000Z",
+      "location": "Rathaus, Rathausmarkt 1, Besprechungsraum 218, Diepholz",
+      "distance": 0.2,
+      "source": "Stadt Diepholz – Bürgerinfoportal",
+      "sourceURL": "https://sitzungsdienst.stadt-diepholz.de/bi/info.asp",
+      "description": "Termin des Senioren- und Behindertenbeirates der Stadt Diepholz.",
+      "frequency": "regular",
+      "region": "diepholz"
+    },
+    {
+      "title": "Ausschuss für Finanzen und Wirtschaft",
+      "category": "vereine",
+      "start": "2026-08-26T14:00:00.000Z",
+      "location": "Rathaus, Rathausmarkt 1, Ratssaal, Diepholz",
+      "distance": 0.2,
+      "source": "Stadt Diepholz – Bürgerinfoportal",
+      "sourceURL": "https://sitzungsdienst.stadt-diepholz.de/bi/info.asp",
+      "description": "Termin des städtischen Ausschusses im Ratssaal.",
+      "frequency": "special",
+      "region": "diepholz"
+    },
+    {
+      "title": "Meppener Wochenmarkt",
+      "category": "feste_maerkte",
+      "start": "2026-08-15T06:00:00.000Z",
+      "end": "2026-08-15T11:00:00.000Z",
+      "location": "Historischer Marktplatz, Meppen",
+      "distance": 0.2,
+      "source": "Stadt Meppen",
+      "sourceURL": "https://www.meppen.de/portal/seiten/meppener-wochenmarkt-900000293-24701.html",
+      "description": "Regelmäßiger Wochenmarkt in der historischen Innenstadt.",
+      "frequency": "regular",
+      "region": "emsland"
+    },
+    {
+      "title": "Meppener Wochenmarkt",
+      "category": "feste_maerkte",
+      "start": "2026-08-18T06:00:00.000Z",
+      "end": "2026-08-18T11:00:00.000Z",
+      "location": "Historischer Marktplatz, Meppen",
+      "distance": 0.2,
+      "source": "Stadt Meppen",
+      "sourceURL": "https://www.meppen.de/portal/seiten/meppener-wochenmarkt-900000293-24701.html",
+      "description": "Regelmäßiger Wochenmarkt in der historischen Innenstadt.",
+      "frequency": "regular",
+      "region": "emsland"
+    },
+    {
+      "title": "Meppener Wochenmarkt",
+      "category": "feste_maerkte",
+      "start": "2026-08-22T06:00:00.000Z",
+      "end": "2026-08-22T11:00:00.000Z",
+      "location": "Historischer Marktplatz, Meppen",
+      "distance": 0.2,
+      "source": "Stadt Meppen",
+      "sourceURL": "https://www.meppen.de/portal/seiten/meppener-wochenmarkt-900000293-24701.html",
+      "description": "Regelmäßiger Wochenmarkt in der historischen Innenstadt.",
+      "frequency": "regular",
+      "region": "emsland"
     }
   ]
 }
