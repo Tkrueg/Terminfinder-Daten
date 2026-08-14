@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T11:16:00.000Z",
+  "updatedAt": "2026-08-14T11:32:00.000Z",
   "events": [
     {
       "title": "Matinée im Park – Good News Hermannsburg",
@@ -100,7 +100,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "Regelmäßiger Wochenmarkt am Mittwoch und Samstag.",
       "frequency": "regular",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Citybeach 2026",
@@ -124,7 +124,7 @@
       "sourceURL": "https://www.celle.de/tourismus/veranstaltungen-in-celle/veranstaltungskalender/veranstaltung/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "celle"
     },
     {
       "title": "Silent Book Club – Outdoor-Special",
@@ -196,7 +196,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "OpenStage Peine – Holzblume",
@@ -208,7 +208,7 @@
       "sourceURL": "https://www.peine-erleben.de/d1i-item-page/openstage-peine-holzblume-101253206/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Geführte Radtour durch das grüne Hannover",
@@ -232,7 +232,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Stadtspaziergang durch Peine",
@@ -244,7 +244,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Drag Sparks Joy – Open-Air-Show",
@@ -268,7 +268,7 @@
       "sourceURL": "https://www.ff-edemissen.de/downloads/edemissen-veranstaltungskalender-2026.pdf",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Führung zur Historie der Ilseder Hütte",
@@ -280,7 +280,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Braunschweiger Abendmarkt",
@@ -292,7 +292,7 @@
       "sourceURL": "https://www.braunschweig.de/kultur/veranstaltungen/start.php",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "braunschweig"
     },
     {
       "title": "Tierstudien – Ferienprogramm",
@@ -329,7 +329,7 @@
       "sourceURL": "https://www.tourismus-peine.de/events",
       "description": "Dreitägiges Weinfest vom 7. bis 9. August mit Winzern aus Asselheim/Grünstadt, Live-Musik und Pfälzer Spezialitäten.",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Großer Hof-Flohmarkt",
@@ -499,7 +499,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Tretbootrennen der Biker-Szene",
@@ -511,7 +511,7 @@
       "sourceURL": "https://www.peine-erleben.de/d1i-item-page/tretbootrennen-der-biker-szene-101322895/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Hexenerlebniswanderung",
@@ -571,7 +571,7 @@
       "sourceURL": "https://www.braunschweig.de/kultur/veranstaltungen/start.php",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "braunschweig"
     },
     {
       "title": "Führung: KZ-Häftlinge in der Rüstungsproduktion",
@@ -595,7 +595,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Offene Pforte – Garten Ebers / Schneider",
@@ -607,7 +607,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Internationaler Feuerwerkswettbewerb – Finnland",
@@ -631,7 +631,7 @@
       "sourceURL": "https://www.stadthalle-gifhorn.de/programm",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "gifhorn"
     },
     {
       "title": "Sagenhaftes Edemissen – Fahrradtour",
@@ -643,7 +643,7 @@
       "sourceURL": "https://www.vereinegeschichte-edemissen.de/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Offene Pforte – Garten Heineke",
@@ -655,7 +655,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Offene Pforte – Weidenkirche Wendeburg",
@@ -667,7 +667,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Fit mit dem E-Bike – Sicherheitstraining",
@@ -691,7 +691,7 @@
       "sourceURL": "https://www.braunschweig.de/kultur/veranstaltungen/start.php",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "braunschweig"
     },
     {
       "title": "Stadtführung mit Frauenpower",
@@ -703,7 +703,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "NABU – Naturkundlicher Abendspaziergang",
@@ -727,7 +727,7 @@
       "sourceURL": "https://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "gifhorn"
     },
     {
       "title": "Nacht der Erlebnisse",
@@ -811,7 +811,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Bürgersingen im Rosengarten",
@@ -835,7 +835,7 @@
       "sourceURL": "https://www.braunschweig.de/kultur/veranstaltungen/start.php",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "braunschweig"
     },
     {
       "title": "Stadtführung Bierkultur in Peine",
@@ -847,7 +847,7 @@
       "sourceURL": "https://www.peine-erleben.de/d1i-item-page/stadtfuehrung-bierkultur-in-peine-ein-schluck-geschichte-in-jedem-glas-101255588/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Burgplatz Open Air – Der Freischütz",
@@ -859,7 +859,7 @@
       "sourceURL": "https://www.braunschweig.de/kultur/veranstaltungen/start.php",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "braunschweig"
     },
     {
       "title": "Santiano – Open-Air",
@@ -895,7 +895,7 @@
       "sourceURL": "https://www.ff-edemissen.de/downloads/edemissen-veranstaltungskalender-2026.pdf",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Till Brönner – Open-Air",
@@ -943,7 +943,7 @@
       "sourceURL": "https://www.peine-erleben.de/d1i-item-page/10-ilseder-jobboerse-virtuelle-messe-101206757/",
       "description": "Virtuelle Messe; die Quelle nennt 00:00 Uhr als Beginn.",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Nautilus 2",
@@ -967,7 +967,7 @@
       "sourceURL": "https://www.ff-edemissen.de/downloads/edemissen-veranstaltungskalender-2026.pdf",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Selbsthilfetag Peine 2026",
@@ -979,7 +979,7 @@
       "sourceURL": "https://www.peine-erleben.de/d1i-item-page/selbsthilfetag-peine-2026-101299757/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "ABI Zukunft Hannover 2026",
@@ -1027,7 +1027,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Stadtparkkonzert – Lien & The Soulmates",
@@ -1039,7 +1039,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Spielzeit im Hof-Café",
@@ -1087,7 +1087,7 @@
       "sourceURL": "https://www.stadthalle-gifhorn.de/programm",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "gifhorn"
     },
     {
       "title": "38. Internationale Goslarer Klaviertage",
@@ -1111,7 +1111,7 @@
       "sourceURL": "https://www.stadthalle-gifhorn.de/programm",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "gifhorn"
     },
     {
       "title": "50. Altstadtfest Goslar",
@@ -1147,7 +1147,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "OpenStage Peine – Open Heaven",
@@ -1159,7 +1159,7 @@
       "sourceURL": "https://www.peine-erleben.de/erleben/eventkalender/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Tag des offenen Denkmals",
@@ -1183,7 +1183,7 @@
       "sourceURL": "https://www.vereinegeschichte-edemissen.de/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "IAA Transportation 2026",
@@ -1231,7 +1231,7 @@
       "sourceURL": "https://www.vereinegeschichte-edemissen.de/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Lafferder Markt",
@@ -1243,7 +1243,7 @@
       "sourceURL": "https://www.tourismus-peine.de/events",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Kaisermarkt Goslar",
@@ -1267,7 +1267,7 @@
       "sourceURL": "https://abbensen.info/termine/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Blutspende im DGH",
@@ -1279,7 +1279,7 @@
       "sourceURL": "https://abbensen.info/termine/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Kaiserringverleihung 2026",
@@ -1315,7 +1315,7 @@
       "sourceURL": "https://www.ff-edemissen.de/downloads/edemissen-veranstaltungskalender-2026.pdf",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Mundartnachmittag",
@@ -1327,7 +1327,7 @@
       "sourceURL": "https://abbensen.info/termine/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Celler Weihnachtsmarkt",
@@ -1339,7 +1339,7 @@
       "sourceURL": "https://www.celle.de/tourismus/veranstaltungen-in-celle/veranstaltungskalender/veranstaltung/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "celle"
     },
     {
       "title": "Weihnachtsmarkt & Weihnachtswald Goslar",
@@ -1363,7 +1363,7 @@
       "sourceURL": "https://abbensen.info/termine/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Quatsch Comedy Club – KulturImZelt",
@@ -1375,7 +1375,7 @@
       "sourceURL": "https://www.kulturimzelt-shop.de/produkte/94336-tickets-quatsch-comedy-club-festival-kulturimzelt-grosses-zelt-braunschweig-am-16-09-2026",
       "description": "Live-Show des Quatsch Comedy Clubs mit Moderation und vier Comedians im großen Zelt.",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "braunschweig"
     },
     {
       "title": "Lesewanderung zum Elemente Thema Feuer",
@@ -1388,7 +1388,7 @@
       "sourceURL": "https://www.kb-lkpeine.de/Standorte/Edemissen/",
       "description": "Literarische Wanderung mit heißen Lesestationen zum Thema Feuer. Kostenlos; Anmeldung beim Veranstalter erforderlich. Bitte Outdoorsitzkissen und wetterangepasste Kleidung mitbringen.",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "Lesewanderung zum Elemente Thema Feuer",
@@ -1413,7 +1413,7 @@
       "sourceURL": "https://abbensen.info/termine/",
       "description": "",
       "frequency": "special",
-      "region": "edemissen"
+      "region": "peine"
     },
     {
       "title": "AnnenMayKantereit – Hamburger Kultursommer",
