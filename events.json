@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-10T13:00:00.000Z",
+  "updatedAt": "2026-08-14T07:01:34.349Z",
   "events": [
     {
       "title": "Maschseefest Hannover 2026",
@@ -1375,6 +1375,114 @@
       "description": "",
       "frequency": "special",
       "region": "edemissen"
+    },
+    {
+      "title": "AnnenMayKantereit – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-20T17:00:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Open-Air-Konzert beim Hamburger Kultursommer. Einlass ab 16:30 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "AnnenMayKantereit – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-21T17:00:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Zweiter Open-Air-Termin beim Hamburger Kultursommer. Einlass ab 16:30 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "Nina Chuba – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-22T17:00:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Open-Air-Konzert beim Hamburger Kultursommer. Einlass ab 16:00 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "BUNT. – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-23T16:30:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Open-Air-Konzert beim Hamburger Kultursommer. Einlass ab 17:30 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "Die Toten Hosen – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-27T15:00:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Open-Air-Konzert beim Hamburger Kultursommer. Einlass ab 15:00 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "Montez – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-28T17:00:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Open-Air-Konzert beim Hamburger Kultursommer. Einlass ab 16:00 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "Kraftklub – Hamburger Kultursommer",
+      "category": "kultur_musik",
+      "start": "2026-08-29T17:00:00.000Z",
+      "location": "Bahrenfelder Trabrennbahn, Luruper Chaussee 30, 22761 Hamburg",
+      "distance": 7.6,
+      "source": "Hamburg.de",
+      "sourceURL": "https://www.hamburg.de/kultur/musik/konzerte/hamburger-kultursommer-383104",
+      "description": "Open-Air-Konzert beim Hamburger Kultursommer. Einlass ab 16:00 Uhr.",
+      "frequency": "special",
+      "region": "hamburg"
+    },
+    {
+      "title": "Uetzer Zwiebelfest 2026",
+      "category": "feste_maerkte",
+      "start": "2026-09-05T13:00:00.000Z",
+      "location": "Hindenburgplatz, Uetze",
+      "distance": 34,
+      "source": "Visit Hannover",
+      "sourceURL": "https://www.visit-hannover.com/Kultur-Sehensw%C3%BCrdigkeiten/Hannover-Urlaubsregion/Kommunen-in-der-Region-Hannover/Uetze/Aktuelle-Veranstaltungen/Zwiebelfest",
+      "description": "Erster Tag des traditionellen Zwiebelfests mit Livemusik und Unterhaltung.",
+      "frequency": "special",
+      "region": "hannover"
+    },
+    {
+      "title": "Uetzer Zwiebelfest 2026",
+      "category": "feste_maerkte",
+      "start": "2026-09-06T08:30:00.000Z",
+      "location": "Hindenburgplatz, Uetze",
+      "distance": 34,
+      "source": "Visit Hannover",
+      "sourceURL": "https://www.visit-hannover.com/Kultur-Sehensw%C3%BCrdigkeiten/Hannover-Urlaubsregion/Kommunen-in-der-Region-Hannover/Uetze/Aktuelle-Veranstaltungen/Zwiebelfest",
+      "description": "Zweiter Tag des traditionellen Zwiebelfests mit Livemusik und Unterhaltung.",
+      "frequency": "special",
+      "region": "hannover"
     }
   ]
 }
