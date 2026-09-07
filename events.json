@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T15:25:03.072Z",
+  "updatedAt": "2026-09-07T15:51:17.244Z",
   "events": [
     {
       "title": "CATT – Lüneburger Kultursommer",
@@ -656,6 +656,55 @@
       "description": "",
       "frequency": "special",
       "region": "gifhorn"
+    },
+    {
+      "title": "Wochenmarkt auf dem Marktplatz Ratzeburg",
+      "category": "feste_maerkte",
+      "start": "2026-09-08T06:00:00.000Z",
+      "location": "Marktplatz, Am Markt, 23909 Ratzeburg",
+      "distance": 0.3,
+      "source": "Herzogtum Lauenburg Marketing und Service GmbH",
+      "sourceURL": "https://www.herzogtum-lauenburg.de/veranstaltungen",
+      "description": "Wochenmarkt auf dem Ratzeburger Marktplatz.",
+      "frequency": "special",
+      "region": "herzogtumLauenburg"
+    },
+    {
+      "title": "Öffentliche Stadtführung – kompakt",
+      "category": "kultur_musik",
+      "start": "2026-09-08T09:00:00.000Z",
+      "location": "Eulenspiegel-Brunnen, Am Markt 12, 23879 Mölln",
+      "distance": 11,
+      "source": "Herzogtum Lauenburg Marketing und Service GmbH",
+      "sourceURL": "https://www.herzogtum-lauenburg.de/veranstaltungen",
+      "description": "Öffentliche kompakte Stadtführung durch Mölln.",
+      "frequency": "special",
+      "region": "herzogtumLauenburg"
+    },
+    {
+      "title": "Suppenküche in Ratzeburg",
+      "category": "vereine",
+      "start": "2026-09-08T10:00:00.000Z",
+      "location": "BQG-Gebäude, Max-Planck-Straße 13, 23909 Ratzeburg",
+      "distance": 1.5,
+      "source": "Herzogtum Lauenburg Marketing und Service GmbH",
+      "sourceURL": "https://www.herzogtum-lauenburg.de/veranstaltungen",
+      "description": "Öffentliche Suppenküche in Ratzeburg.",
+      "frequency": "special",
+      "region": "herzogtumLauenburg"
+    },
+    {
+      "title": "Wattwanderung zur Hallig Nordstrandischmoor",
+      "category": "sport",
+      "start": "2026-09-08T13:30:00.000Z",
+      "end": "2026-09-08T18:30:00.000Z",
+      "location": "Badestelle Lüttmoorsiel, 25821 Reußenköge",
+      "distance": 14,
+      "source": "Nordseeküste Nordfriesland e. V.",
+      "sourceURL": "https://nordsee-nordfriesland.de/events/wattwanderungen-zur-hallig-nordstrandischmoor",
+      "description": "Geführte Wattwanderung zur Hallig Nordstrandischmoor.",
+      "frequency": "special",
+      "region": "nordfriesland"
     },
     {
       "title": "Aquarellmalerei – Naturstudien",
@@ -1453,6 +1502,18 @@
       "region": "cloppenburg"
     },
     {
+      "title": "Fahrradwoche – Tour ab Grömitz",
+      "category": "sport",
+      "start": "2026-09-14T08:00:00.000Z",
+      "location": "Seebrückenvorplatz Grömitz, 23743 Grömitz",
+      "distance": 27,
+      "source": "Kreis Ostholstein",
+      "sourceURL": "https://www.kreis-oh.de/index.php?FID=3906.10571.1&ModID=11&object=tx%2C3906.4",
+      "description": "Geführte Tour im Rahmen der Fahrradwoche im OstseeFerienLand.",
+      "frequency": "special",
+      "region": "ostholstein"
+    },
+    {
       "title": "IAA Transportation 2026",
       "category": "kultur_musik",
       "start": "2026-09-15T07:00:00.000Z",
@@ -1463,6 +1524,18 @@
       "description": "",
       "frequency": "special",
       "region": "hannover"
+    },
+    {
+      "title": "Fahrradwoche – Tour ab Grömitz",
+      "category": "sport",
+      "start": "2026-09-16T08:00:00.000Z",
+      "location": "Seebrückenvorplatz Grömitz, 23743 Grömitz",
+      "distance": 27,
+      "source": "Kreis Ostholstein",
+      "sourceURL": "https://www.kreis-oh.de/Wirtschaft-Natur-Tourismus/Urlaubsregion-Ostholstein/Veranstaltungen/Fahrradwoche-Kreuz-und-quer-durchs-OstseeFerienLand.php?FID=3906.10569.1&La=1&ModID=11&NavID=2454.158&bn=1&object=tx%2C3906.4.1&sfvort=1",
+      "description": "Geführte Tour im Rahmen der Fahrradwoche im OstseeFerienLand.",
+      "frequency": "special",
+      "region": "ostholstein"
     },
     {
       "title": "Quatsch Comedy Club – KulturImZelt",
@@ -1477,6 +1550,18 @@
       "region": "braunschweig"
     },
     {
+      "title": "Fahrradwoche – Tour ab Grömitz",
+      "category": "sport",
+      "start": "2026-09-18T08:00:00.000Z",
+      "location": "Seebrückenvorplatz Grömitz, 23743 Grömitz",
+      "distance": 27,
+      "source": "Kreis Ostholstein",
+      "sourceURL": "https://www.kreis-oh.de/index.php?FID=3906.10567.1&ModID=11&object=tx%2C3906.4",
+      "description": "Geführte Tour im Rahmen der Fahrradwoche im OstseeFerienLand.",
+      "frequency": "special",
+      "region": "ostholstein"
+    },
+    {
       "title": "8. Hahnenkleer Wandermarathon",
       "category": "sport",
       "start": "2026-09-19T05:00:00.000Z",
@@ -1487,6 +1572,81 @@
       "description": "Wandermarathon rund um Hahnenklee.",
       "frequency": "special",
       "region": "goslar"
+    },
+    {
+      "title": "Wattwanderung zur Hallig Nordstrandischmoor",
+      "category": "sport",
+      "start": "2026-09-19T09:00:00.000Z",
+      "end": "2026-09-19T14:00:00.000Z",
+      "location": "Badestelle Lüttmoorsiel, 25821 Reußenköge",
+      "distance": 14,
+      "source": "Nordseeküste Nordfriesland e. V.",
+      "sourceURL": "https://nordsee-nordfriesland.de/events/wattwanderungen-zur-hallig-nordstrandischmoor",
+      "description": "Geführte Wattwanderung zur Hallig Nordstrandischmoor.",
+      "frequency": "special",
+      "region": "nordfriesland"
+    },
+    {
+      "title": "29. Pinneberger Kindertag",
+      "category": "familie",
+      "start": "2026-09-20T09:00:00.000Z",
+      "end": "2026-09-20T15:00:00.000Z",
+      "location": "Rund um die Drostei, Dingstätte 23, 25421 Pinneberg",
+      "distance": 0.8,
+      "source": "Stadt Pinneberg",
+      "sourceURL": "https://www.pinneberg.de/kultur/veranstaltungen/kindertag",
+      "description": "Familienfest mit Spielstationen, Musik und Mitmachangeboten.",
+      "frequency": "special",
+      "region": "pinneberg"
+    },
+    {
+      "title": "Kohlanschnittsfest Dithmarscher Kohltage",
+      "category": "feste_maerkte",
+      "start": "2026-09-22T08:00:00.000Z",
+      "location": "Hof Andrea Kern und Thies Hagge Kern, Gohweg 16, 25774 Hemme",
+      "distance": 20,
+      "source": "Dithmarschen Tourismus",
+      "sourceURL": "https://www.echt-dithmarschen.de/typisch/dithmarscher-kohltage/programm",
+      "description": "Offizielles Kohlanschnittsfest der Dithmarscher Kohltage.",
+      "frequency": "special",
+      "region": "dithmarschen"
+    },
+    {
+      "title": "Bauernmarkt Brunsbüttel",
+      "category": "feste_maerkte",
+      "start": "2026-09-23T08:00:00.000Z",
+      "location": "Gustav-Meyer-Platz, 25541 Brunsbüttel",
+      "distance": 39,
+      "source": "Dithmarschen Tourismus",
+      "sourceURL": "https://www.echt-dithmarschen.de/typisch/dithmarscher-kohltage/programm",
+      "description": "Bauernmarkt im Rahmen der Dithmarscher Kohltage.",
+      "frequency": "special",
+      "region": "dithmarschen"
+    },
+    {
+      "title": "Marner Stadtfest – Dithmarscher Kohltage",
+      "category": "feste_maerkte",
+      "start": "2026-09-25T10:00:00.000Z",
+      "location": "Marner Innenstadt, Deichstraße 2, 25709 Marne",
+      "distance": 32,
+      "source": "Dithmarschen Tourismus",
+      "sourceURL": "https://www.echt-dithmarschen.de/typisch/dithmarscher-kohltage/programm",
+      "description": "Stadtfest in der Marner Innenstadt im Rahmen der Dithmarscher Kohltage.",
+      "frequency": "special",
+      "region": "dithmarschen"
+    },
+    {
+      "title": "Tag der offenen Tür bei der DiakoMigra",
+      "category": "vereine",
+      "start": "2026-09-25T13:00:00.000Z",
+      "end": "2026-09-25T16:00:00.000Z",
+      "location": "DiakoMigra, Bahnhofstraße 18–22, 25421 Pinneberg",
+      "distance": 0.5,
+      "source": "Stadt Pinneberg",
+      "sourceURL": "https://www.pinneberg.de/kultur/veranstaltungen/ikw",
+      "description": "Tag der offenen Tür im Rahmen der Interkulturellen Woche.",
+      "frequency": "special",
+      "region": "pinneberg"
     },
     {
       "title": "Honky Tonk Kneipenfestival",
@@ -1573,6 +1733,32 @@
       "description": "",
       "frequency": "special",
       "region": "peine"
+    },
+    {
+      "title": "Brunch & Tanz – Interkulturelle Woche",
+      "category": "vereine",
+      "start": "2026-10-04T09:00:00.000Z",
+      "end": "2026-10-04T11:00:00.000Z",
+      "location": "Ratssitzungssaal, Bismarckstraße 8, 25421 Pinneberg",
+      "distance": 0.4,
+      "source": "Stadt Pinneberg",
+      "sourceURL": "https://www.pinneberg.de/kultur/veranstaltungen/ikw",
+      "description": "Gemeinsamer Brunch und Tanz für Frauen aus aller Welt.",
+      "frequency": "special",
+      "region": "pinneberg"
+    },
+    {
+      "title": "Wattwanderung zur Hallig Nordstrandischmoor",
+      "category": "sport",
+      "start": "2026-10-04T10:00:00.000Z",
+      "end": "2026-10-04T15:00:00.000Z",
+      "location": "Badestelle Lüttmoorsiel, 25821 Reußenköge",
+      "distance": 14,
+      "source": "Nordseeküste Nordfriesland e. V.",
+      "sourceURL": "https://nordsee-nordfriesland.de/events/wattwanderungen-zur-hallig-nordstrandischmoor",
+      "description": "Geführte Wattwanderung zur Hallig Nordstrandischmoor.",
+      "frequency": "special",
+      "region": "nordfriesland"
     },
     {
       "title": "Blutspende im DGH",
