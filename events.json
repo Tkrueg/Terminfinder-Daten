@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T12:45:30.446Z",
+  "updatedAt": "2026-09-28T13:08:56.361Z",
   "events": [
     {
       "title": "CATT – Lüneburger Kultursommer",
@@ -2656,6 +2656,19 @@
       "description": "Mitmachaktion im Rahmen der Woche der seelischen Gesundheit.",
       "frequency": "special",
       "region": "neumuenster"
+    },
+    {
+      "title": "Apfelfahrt und Apfelmarkt",
+      "category": "feste_maerkte",
+      "start": "2026-10-16T11:00:00.000Z",
+      "end": "2026-10-18T17:00:00.000Z",
+      "location": "Museumshafen Flensburg, Herrenstall 11, 24939 Flensburg",
+      "distance": 0.8,
+      "source": "Historischer Hafen Flensburg",
+      "sourceURL": "https://historischer-hafen.de/",
+      "description": "Traditionelle Apfelfahrt nach Glücksburg mit anschließendem Apfelmarkt am Bohlwerk des Museumshafens.",
+      "frequency": "special",
+      "region": "flensburg"
     },
     {
       "title": "991. Bremer Freimarkt",
