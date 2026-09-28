@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T15:51:17.244Z",
+  "updatedAt": "2026-09-28T12:38:55.657Z",
   "events": [
     {
       "title": "CATT – Lüneburger Kultursommer",
@@ -1698,6 +1698,19 @@
       "region": "peine"
     },
     {
+      "title": "Digitale Sprechstunde der VHS",
+      "category": "vereine",
+      "start": "2026-10-01T13:30:00.000Z",
+      "end": "2026-10-01T14:30:00.000Z",
+      "location": "Stadtbibliothek Flensburg, Süderhofenden 40, 24937 Flensburg",
+      "distance": 0.5,
+      "source": "Stadtbibliothek Flensburg",
+      "sourceURL": "https://stadtbibliothek.flensburg.de/veranstaltungen/",
+      "description": "Kostenfreie Beratung zur Nutzung von Handy, Tablet und PC.",
+      "frequency": "special",
+      "region": "flensburg"
+    },
+    {
       "title": "Kaisermarkt Goslar",
       "category": "feste_maerkte",
       "start": "2026-10-02T08:00:00.000Z",
@@ -1708,6 +1721,54 @@
       "description": "Historischer Markt vom 2. bis 4. Oktober 2026.",
       "frequency": "special",
       "region": "goslar"
+    },
+    {
+      "title": "Abendglockenführung St. Marien",
+      "category": "kultur_musik",
+      "start": "2026-10-02T15:00:00.000Z",
+      "location": "St. Marien, Marienkirchhof 1, 23552 Lübeck",
+      "distance": 0.3,
+      "source": "Hansestadt Lübeck",
+      "sourceURL": "https://www.luebeck.de/de/stadtleben/veranstaltungen/veranstaltungen?va_ort=luebeck",
+      "description": "Öffentliche Abendglockenführung in St. Marien.",
+      "frequency": "special",
+      "region": "luebeck"
+    },
+    {
+      "title": "Bergung des Hanseschiffes aus der Trave",
+      "category": "kultur_musik",
+      "start": "2026-10-02T15:00:00.000Z",
+      "location": "Industriemuseum Geschichtswerkstatt Herrenwyk, Kokerstraße 1–3, 23569 Lübeck",
+      "distance": 9,
+      "source": "Hansestadt Lübeck",
+      "sourceURL": "https://www.luebeck.de/de/stadtleben/veranstaltungen/veranstaltungen?va_ort=luebeck",
+      "description": "Vortrag über die Bergung des historischen Hanseschiffes aus der Trave.",
+      "frequency": "special",
+      "region": "luebeck"
+    },
+    {
+      "title": "Bücherherbst mit Annemarie Stoltenberg",
+      "category": "kultur_musik",
+      "start": "2026-10-02T16:00:00.000Z",
+      "location": "Kulturforum Schwimmhalle Schloss Plön, Schlossgebiet 1 a, 24306 Plön",
+      "distance": 0.8,
+      "source": "Kreis Plön",
+      "sourceURL": "https://www.kreis-ploen.de/Veranstaltungen",
+      "description": "Literaturabend mit einer Auswahl neuer Bücher.",
+      "frequency": "special",
+      "region": "ploen"
+    },
+    {
+      "title": "Mozart-Konzert in der Aegidienkirche",
+      "category": "kultur_musik",
+      "start": "2026-10-02T17:00:00.000Z",
+      "location": "Aegidienkirche, Aegidienstraße 75, 23552 Lübeck",
+      "distance": 0.8,
+      "source": "Hansestadt Lübeck",
+      "sourceURL": "https://www.luebeck.de/de/stadtleben/veranstaltungen/veranstaltungen?va_ort=luebeck",
+      "description": "Konzert des Holland Konzertchors und -Orchesters mit Werken von Mozart.",
+      "frequency": "special",
+      "region": "luebeck"
     },
     {
       "title": "Geführte Wanderung an der früheren Grenze der DDR",
@@ -1735,6 +1796,32 @@
       "region": "peine"
     },
     {
+      "title": "Klassikabend im Kreismuseum Prinzesshof",
+      "category": "kultur_musik",
+      "start": "2026-10-03T16:00:00.000Z",
+      "end": "2026-10-03T18:00:00.000Z",
+      "location": "Kreismuseum Prinzesshof, Kirchenstraße 20, 25524 Itzehoe",
+      "distance": 0.6,
+      "source": "Kreis Steinburg",
+      "sourceURL": "https://www.steinburg.de/startseite/presse-aktuelles/veranstaltungen/termin/liste/site/14.html",
+      "description": "Klassikabend im Kreismuseum Prinzesshof.",
+      "frequency": "special",
+      "region": "steinburg"
+    },
+    {
+      "title": "Flohmarkt an der Hörn",
+      "category": "feste_maerkte",
+      "start": "2026-10-04T06:00:00.000Z",
+      "end": "2026-10-04T14:00:00.000Z",
+      "location": "Querkai an der Hörn, Kaistraße 101, 24114 Kiel",
+      "distance": 1.4,
+      "source": "Landeshauptstadt Kiel",
+      "sourceURL": "https://www.kiel.de/de/wirtschaft_arbeit/maerkte/flohmarkt.php/",
+      "description": "Städtischer Flohmarkt an der Kieler Hörn.",
+      "frequency": "special",
+      "region": "kiel"
+    },
+    {
       "title": "Brunch & Tanz – Interkulturelle Woche",
       "category": "vereine",
       "start": "2026-10-04T09:00:00.000Z",
@@ -1759,6 +1846,57 @@
       "description": "Geführte Wattwanderung zur Hallig Nordstrandischmoor.",
       "frequency": "special",
       "region": "nordfriesland"
+    },
+    {
+      "title": "Bayoogie Masters",
+      "category": "kultur_musik",
+      "start": "2026-10-04T16:00:00.000Z",
+      "end": "2026-10-04T18:00:00.000Z",
+      "location": "KulturForum Kiel, Andreas-Gayk-Straße 31, 24103 Kiel",
+      "distance": 0.4,
+      "source": "Landeshauptstadt Kiel",
+      "sourceURL": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php",
+      "description": "Blues- und Boogie-Woogie-Konzert mit Dom Pipkin als Gast.",
+      "frequency": "special",
+      "region": "kiel"
+    },
+    {
+      "title": "338. Schlosskonzert der Stadt Plön – AVIN TRIO",
+      "category": "kultur_musik",
+      "start": "2026-10-05T17:30:00.000Z",
+      "location": "Kulturforum Schwimmhalle Schloss Plön, Schlossgebiet 1 a, 24306 Plön",
+      "distance": 0.8,
+      "source": "Kreis Plön",
+      "sourceURL": "https://www.kreis-ploen.de/Veranstaltungen",
+      "description": "Schlosskonzert mit dem AVIN TRIO.",
+      "frequency": "special",
+      "region": "ploen"
+    },
+    {
+      "title": "Jazz-Café im STATT-CAFÉ",
+      "category": "kultur_musik",
+      "start": "2026-10-05T18:00:00.000Z",
+      "end": "2026-10-05T20:00:00.000Z",
+      "location": "STATT-Café, Andreas-Gayk-Straße 31, 24103 Kiel",
+      "distance": 0.4,
+      "source": "Landeshauptstadt Kiel",
+      "sourceURL": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php",
+      "description": "Jazz-Session mit dem STATT-QUARTETT.",
+      "frequency": "special",
+      "region": "kiel"
+    },
+    {
+      "title": "Buch-Club der Kinder im Oktober",
+      "category": "familie",
+      "start": "2026-10-07T13:00:00.000Z",
+      "end": "2026-10-07T14:00:00.000Z",
+      "location": "Stadtbibliothek Flensburg, Süderhofenden 40, 24937 Flensburg",
+      "distance": 0.5,
+      "source": "Stadtbibliothek Flensburg",
+      "sourceURL": "https://stadtbibliothek.flensburg.de/veranstaltungen/",
+      "description": "Kinder-Buchclub mit einem kreativen Angebot zu Book Nooks.",
+      "frequency": "special",
+      "region": "flensburg"
     },
     {
       "title": "Blutspende im DGH",
@@ -1864,6 +2002,19 @@
       "region": "oldenburgLandkreis"
     },
     {
+      "title": "Amaranth und Erntedank – nachhaltige Ernährung",
+      "category": "vereine",
+      "start": "2026-10-09T14:00:00.000Z",
+      "end": "2026-10-09T18:00:00.000Z",
+      "location": "Landhaus Schulze-Hamann, Segeberger Straße 32, 23813 Blunk",
+      "distance": 13,
+      "source": "Kreis Segeberg",
+      "sourceURL": "https://www.segeberg.de/index.php?FID=3466.19892.1&ModID=11&object=tx%2C3466.4.1",
+      "description": "Kochworkshop zu regionalen und globalen Perspektiven nachhaltiger Ernährung.",
+      "frequency": "special",
+      "region": "segeberg"
+    },
+    {
       "title": "Bahnhofskneipe im KuZ",
       "category": "vereine",
       "start": "2026-10-09T17:30:00.000Z",
@@ -1874,6 +2025,18 @@
       "description": "Monatlicher Kneipenabend mit Hintergrundmusik, jeweils am zweiten Freitag des Monats.",
       "frequency": "regular",
       "region": "osterholz"
+    },
+    {
+      "title": "Elvis lebt – in Kellinghusen",
+      "category": "kultur_musik",
+      "start": "2026-10-09T18:00:00.000Z",
+      "location": "Aula der GMS Kellinghusen, 25548 Kellinghusen",
+      "distance": 17,
+      "source": "Kreis Steinburg",
+      "sourceURL": "https://www.steinburg.de/ls/startseite/presse-aktuelles/veranstaltungen/termin/liste/site/13.html",
+      "description": "Musikveranstaltung in der Aula der Gemeinschaftsschule Kellinghusen.",
+      "frequency": "special",
+      "region": "steinburg"
     },
     {
       "title": "Hildesheimer Wochenmarkt",
@@ -2004,6 +2167,19 @@
       "description": "Regelmäßiger Wochenmarkt laut offizieller kommunaler Quelle.",
       "frequency": "regular",
       "region": "luechowDannenberg"
+    },
+    {
+      "title": "Wochenmarkt Marienburger Platz",
+      "category": "feste_maerkte",
+      "start": "2026-10-10T05:00:00.000Z",
+      "end": "2026-10-10T10:00:00.000Z",
+      "location": "Marienburger Platz, 25524 Itzehoe",
+      "distance": 1.6,
+      "source": "Kreis Steinburg",
+      "sourceURL": "https://www.steinburg.de/ls/startseite/presse-aktuelles/veranstaltungen/termin/liste/site/13.html",
+      "description": "Samstäglicher Wochenmarkt auf dem Marienburger Platz.",
+      "frequency": "regular",
+      "region": "steinburg"
     },
     {
       "title": "Wochenmarkt Pferdemarkt",
@@ -2370,6 +2546,18 @@
       "region": "hamburg"
     },
     {
+      "title": "Indian-Summer Wanderung 2026",
+      "category": "sport",
+      "start": "2026-10-10T08:00:00.000Z",
+      "location": "THW Wahlstedt, Doktor-Hermann-Lindrath-Straße 16, 23812 Wahlstedt",
+      "distance": 9,
+      "source": "Kreis Segeberg",
+      "sourceURL": "https://www.segeberg.de/index.php?FID=3466.19926.1&ModID=11&object=tx%2C3466.4.1",
+      "description": "Geführte Wanderung über rund 20 Kilometer durch den Segeberger Forst.",
+      "frequency": "special",
+      "region": "segeberg"
+    },
+    {
       "title": "Stadtführung durch Bad Harzburg",
       "category": "feste_maerkte",
       "start": "2026-10-10T08:00:00.000Z",
@@ -2419,6 +2607,69 @@
       "region": "goslar"
     },
     {
+      "title": "Baby-Vormittag in der Stadtbibliothek",
+      "category": "familie",
+      "start": "2026-10-12T08:00:00.000Z",
+      "end": "2026-10-12T10:00:00.000Z",
+      "location": "Stadtbibliothek Flensburg, Süderhofenden 40, 24937 Flensburg",
+      "distance": 0.5,
+      "source": "Stadtbibliothek Flensburg",
+      "sourceURL": "https://stadtbibliothek.flensburg.de/veranstaltungen/",
+      "description": "Austausch, Spielen und Lesen für Eltern und Kinder von null bis drei Jahren.",
+      "frequency": "special",
+      "region": "flensburg"
+    },
+    {
+      "title": "Selbsthilfecafé Lichtblicke",
+      "category": "vereine",
+      "start": "2026-10-13T13:30:00.000Z",
+      "location": "Soziales Dienstleistungszentrum Altes E-Werk, Vierschillingsberg 21, 24306 Plön",
+      "distance": 1,
+      "source": "Kreis Plön",
+      "sourceURL": "https://www.kreis-ploen.de/Veranstaltungen",
+      "description": "Offenes Selbsthilfecafé im Rahmen der Woche der Seelischen Gesundheit.",
+      "frequency": "special",
+      "region": "ploen"
+    },
+    {
+      "title": "Sing mit! Musik als Gemeinschaft",
+      "category": "kultur_musik",
+      "start": "2026-10-13T16:00:00.000Z",
+      "end": "2026-10-13T18:00:00.000Z",
+      "location": "Atrium des FEK Neumünster, Friesenstraße 11, 24534 Neumünster",
+      "distance": 1.1,
+      "source": "Stadt Neumünster",
+      "sourceURL": "https://www.neumuenster.de/gesellschaft-soziales/gesundheit/woche-seelische-gesundheit",
+      "description": "Mitmachaktion im Rahmen der Woche der seelischen Gesundheit.",
+      "frequency": "special",
+      "region": "neumuenster"
+    },
+    {
+      "title": "KINOBühne – Kurzfilmbrausemix",
+      "category": "kultur_musik",
+      "start": "2026-10-27T18:00:00.000Z",
+      "location": "Theater in der Stadthalle, Kleinflecken 1, 24534 Neumünster",
+      "distance": 0.7,
+      "source": "Stadt Neumünster",
+      "sourceURL": "https://www.neumuenster.de/kultur-freizeit/kultur/theater/kinobuehne",
+      "description": "Filmabend der KINOBühne mit einem Kurzfilmbrausemix.",
+      "frequency": "special",
+      "region": "neumuenster"
+    },
+    {
+      "title": "Starkregen und Überschwemmung – Schutz für mein Haus",
+      "category": "vereine",
+      "start": "2026-10-29T17:00:00.000Z",
+      "end": "2026-10-29T18:30:00.000Z",
+      "location": "Volkshaus Tungendorf, Hürsland 2, 24536 Neumünster",
+      "distance": 4,
+      "source": "Stadt Neumünster",
+      "sourceURL": "https://www.neumuenster.de/verkehr-umwelt/klima-umweltqualitaet/aktuelles/veranstaltungen/infoveranstaltung-starkregen-und-ueberschwemmung",
+      "description": "Informationsveranstaltung zu Starkregenvorsorge, Gebäudeschutz und Versicherung.",
+      "frequency": "special",
+      "region": "neumuenster"
+    },
+    {
       "title": "Queen-Konzert mit der Bodega",
       "category": "kultur_musik",
       "start": "2026-10-30T17:00:00.000Z",
@@ -2429,6 +2680,19 @@
       "description": "",
       "frequency": "special",
       "region": "peine"
+    },
+    {
+      "title": "Kinder Halloween 2026",
+      "category": "familie",
+      "start": "2026-11-01T13:00:00.000Z",
+      "end": "2026-11-01T16:00:00.000Z",
+      "location": "Festwiese, Beckersbergstraße 34, 24558 Henstedt-Ulzburg",
+      "distance": 29,
+      "source": "Kreis Segeberg",
+      "sourceURL": "https://www.segeberg.de/index.php?FID=3466.19874.1&ModID=11&object=tx%2C3466.4.1",
+      "description": "Familienveranstaltung im Halloween-Zirkuszelt für Kinder von drei bis neun Jahren.",
+      "frequency": "special",
+      "region": "segeberg"
     },
     {
       "title": "Mundartnachmittag",
