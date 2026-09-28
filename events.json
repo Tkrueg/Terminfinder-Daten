@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T12:38:55.657Z",
+  "updatedAt": "2026-09-28T12:45:30.446Z",
   "events": [
     {
       "title": "CATT – Lüneburger Kultursommer",
@@ -1835,6 +1835,19 @@
       "region": "pinneberg"
     },
     {
+      "title": "Tag der Deutschen Einheit – Offenes Rathaus",
+      "category": "feste_maerkte",
+      "start": "2026-10-04T09:00:00.000Z",
+      "end": "2026-10-04T14:30:00.000Z",
+      "location": "Bremer Rathaus, Am Markt 21, 28195 Bremen",
+      "distance": 0.2,
+      "source": "Senatspressestelle Bremen",
+      "sourceURL": "https://www.senatspressestelle.bremen.de/pressemitteilungen/das-rathaus-oeffnet-die-tuer-zum-tag-der-deutschen-einheit-491442?asl=bremen02.c.732.de",
+      "description": "Kostenlose Rathausführungen als Teil des großen Bürgerfestes zum Tag der Deutschen Einheit.",
+      "frequency": "special",
+      "region": "bremen"
+    },
+    {
       "title": "Wattwanderung zur Hallig Nordstrandischmoor",
       "category": "sport",
       "start": "2026-10-04T10:00:00.000Z",
@@ -2645,6 +2658,19 @@
       "region": "neumuenster"
     },
     {
+      "title": "991. Bremer Freimarkt",
+      "category": "feste_maerkte",
+      "start": "2026-10-16T14:00:00.000Z",
+      "end": "2026-11-01T22:00:00.000Z",
+      "location": "Bürgerweide und Innenstadt, 28195 Bremen",
+      "distance": 1.2,
+      "source": "Freie Hansestadt Bremen",
+      "sourceURL": "https://www.bremen.de/tourismus/kultur/freimarkt",
+      "description": "Das große Bremer Volksfest auf der Bürgerweide und als Kleiner Freimarkt in der Innenstadt.",
+      "frequency": "special",
+      "region": "bremen"
+    },
+    {
       "title": "KINOBühne – Kurzfilmbrausemix",
       "category": "kultur_musik",
       "start": "2026-10-27T18:00:00.000Z",
@@ -3327,6 +3353,19 @@
       "description": "",
       "frequency": "special",
       "region": "celle"
+    },
+    {
+      "title": "Bremer Weihnachtsmarkt und Schlachte-Zauber",
+      "category": "feste_maerkte",
+      "start": "2026-11-23T10:00:00.000Z",
+      "end": "2026-12-23T19:30:00.000Z",
+      "location": "Marktplatz und Weserpromenade Schlachte, 28195 Bremen",
+      "distance": 0.4,
+      "source": "Freie Hansestadt Bremen",
+      "sourceURL": "https://www.bremen.de/tourismus/kultur/weihnachtsmarkt-und-schlachte-zauber",
+      "description": "Weihnachtsmarkt rund um Rathaus und Roland sowie maritimer Schlachte-Zauber an der Weser.",
+      "frequency": "special",
+      "region": "bremen"
     },
     {
       "title": "Weihnachtsmarkt & Weihnachtswald Goslar",
